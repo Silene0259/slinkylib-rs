@@ -1,2 +1,1 @@
-pub mod file;
-pub mod slinkydomain;
+pub mod ipfs;

@@ -2,9 +2,8 @@
 pub struct Transaction {
     sender: String,
     receiver: String,
-
     hash: String,
-
+    
     signature: String, // Placeholder for cryptographic signature
 }
 

@@ -1,3 +1,6 @@
+pub mod content;
+pub mod domain;
+
 pub mod lattice;
 
 pub mod internals;
